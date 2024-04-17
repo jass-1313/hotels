@@ -1,0 +1,9 @@
+{
+    "name":"jashanpreet singh",
+    "age":28,
+    "work":"manager",
+    "mobile":"75085-07852",
+    "email":"hello@gmail.com",
+    "address":"kirian walii",
+    "salary" : 500000000
+}
