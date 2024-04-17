@@ -21,6 +21,7 @@ app.use('/person',personRoutes)
 let itemRoutes = require('./routes/itemRoutes')
 app.use('/item',itemRoutes)
 
+// comment for testing purposes
 app.listen(3000,()=>{
     console.log('servre is lisstening on port 3000')
 })
