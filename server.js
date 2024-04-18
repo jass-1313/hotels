@@ -23,6 +23,8 @@ app.use('/item',itemRoutes)
 
 //comment from git
 // comment for testing purposes
-app.listen(3000,()=>{
+const port = process.env.PORT || 3000
+
+app.listen(port,()=>{
     console.log('servre is lisstening on port 3000')
 })
